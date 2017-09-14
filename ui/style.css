@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    background-color: white;
     margin-top: 75px;
 }
 
@@ -8,14 +9,22 @@ body {
 }
 
 .text-big {
-    font-size: 300%;
+    font-size: 100%;
 }
 
-.bold {
-    font-weight: bold;
+h3{
+	text-align: left;
+	margin-left: 40%; 
 }
 
 .img-medium {
     height: 200px;
 }
+
+.container{
+	text-align: center;
+	background: white;
+	font-weight: normal;
+}
+
 
